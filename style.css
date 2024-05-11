@@ -8,11 +8,11 @@ h1{
     font-family: 'Quantico', sans-serif;
     font-style: italic;
     font-size: 4em;
-    color: #280774;
+    color: #003060;
 }
 
 body {
-    background-color: #071974;
+    background-color: #0E86D4;
 }
 
 @media (orientation: portrait) {
@@ -66,7 +66,7 @@ body {
     font-size: 30px;
     font-weight: 600;
     text-align: center;
-    color: #280774;
+    color: #003060;
 
     margin-bottom: 40px;
     width: 100%;
@@ -84,7 +84,7 @@ body {
     width: 100%;
     border-radius: 5px;
 
-    background-color: #740728;
+    background-color: #68BBE3;
 }
 
 label {
@@ -111,8 +111,8 @@ footer {
 
     font-family: 'Quantico', sans-serif;
     font-size: 1.5em;
-    color:#280774;
+    color:#003060;
     padding: 10px;
     
-    background-color: #740728;
+    background-color: #68BBE3;
 }
